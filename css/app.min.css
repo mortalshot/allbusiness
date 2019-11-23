@@ -677,6 +677,7 @@
 	    width: 100%;
 	    max-width: 350px;
 	    height: 80px;
+        margin: 0;
 	    margin-top: 25px;
 	}
 
@@ -2546,6 +2547,9 @@
 	    .pb15 {
 	        padding: 0;
 	    }
+        .visa-img img {
+            min-width: 379px;
+        }
 	}
 
 	@media (min-width: 1200px) {
