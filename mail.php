@@ -51,4 +51,4 @@ $headers = "MIME-Version: 1.0" . PHP_EOL .
 
 mail($admin_email, adopt($form_subject), $message, $headers );
 
-header("Location: /thx.html");
+header("Location: /*");
