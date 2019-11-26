@@ -665,6 +665,9 @@
     max-width: 630px;
     margin: 0;
 }
+.visa-content .heading1 {
+    padding: 0 !important;
+}
 
 .visa-content-text {
     font-weight: 300;
@@ -861,7 +864,6 @@
     font-weight: bold;
     line-height: 43px;
     text-align: center;
-    padding-top: 30px;
 }
 
 .address-content {
